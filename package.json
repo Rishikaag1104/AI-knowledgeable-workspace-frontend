@@ -1,8 +1,11 @@
 {
-  "name": "frontend",
+  "name": "ai-knowledge-workspace-frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "description": "React frontend for an AI-powered document knowledge workspace.",
+  "author": "Rishika Agarwal",
+  "keywords": ["react", "vite", "tailwindcss", "ai", "knowledge-workspace", "document-management"],
   "scripts": {
     "dev": "vite",
     "build": "vite build",
